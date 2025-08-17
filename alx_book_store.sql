@@ -1,3 +1,5 @@
+CREATE DATABASE alx_book_store
+
 CREATE Books (
     book_id PRIMARY number,
     title VARCHAR(130),
